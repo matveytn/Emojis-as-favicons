@@ -1,0 +1,2 @@
+# Emojis-as-favicons
+# Favimojis
